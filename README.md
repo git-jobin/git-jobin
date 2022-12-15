@@ -7,14 +7,14 @@ src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58
 
 - 🌱 I’m currently learning **Java FullStack**
 
-- 📫 How to reach me **jobinjose.in@gmail.com**
+- 📫 How to reach me **mail@jobinjose.in**
 
 - ⚡ well... **IT'S NOT OVER UNTIL I DIE**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a  target="blank" href="https://github.com/jobinjosetech"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@jobinjose" height="30" width="40" /></a>
+<a  target="blank" href="https://github.com/git-jobin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@jobinjose" height="30" width="40" /></a>
 <a  target="blank" href="https://www.linkedin.com/in/jobinjosetech/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jobin Jose" height="30" width="40" /></a>
 
 
